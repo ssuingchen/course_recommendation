@@ -1,4 +1,5 @@
-# course_recommendation# Improve How Students Search for Courses
+# course_recommendation
+# Improve How Students Search for Courses
 (tl;dr)
 This project uses Pyterrier to index documents(course descriptions) and retrieve top 10 most relevant courses with Wikipedia collection indexing and its query expansion.
 
